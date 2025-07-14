@@ -15,7 +15,7 @@
 }
 header {
     width: 100%;
-    background-image: url(../A001/B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
 
 
 }
@@ -44,4 +44,6 @@ nav {
 nav ul {
     display: flex;
     align-items: center;
+    justify-content: space-around;
+    margin-left: 200px;
 }
